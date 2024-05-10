@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T15:14:49.056Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="PifpzRSb8CF5yTBZy4so" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-10T15:15:16.141Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ufx2uMQl-ON_qHwWcb7V" version="20.4.0" type="github">
   <diagram name="Page-1" id="jL8QJJ9i0J1CRAjg_JqJ">
-    <mxGraphModel dx="918" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1224" dy="1364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,12 +141,6 @@
         <mxCell id="fxDSYSPeCNJEnBiwhpot-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fxDSYSPeCNJEnBiwhpot-39" target="fxDSYSPeCNJEnBiwhpot-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HlB0gFYjYxwYRRCom7n0-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HlB0gFYjYxwYRRCom7n0-1" target="HlB0gFYjYxwYRRCom7n0-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HlB0gFYjYxwYRRCom7n0-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HlB0gFYjYxwYRRCom7n0-1" target="HlB0gFYjYxwYRRCom7n0-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="HlB0gFYjYxwYRRCom7n0-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png;strokeColor=#FF66FF;fillColor=#FFCCFF;" vertex="1" parent="1">
           <mxGeometry x="269" y="460" width="60" height="60" as="geometry" />
         </mxCell>
@@ -184,12 +178,6 @@
         </mxCell>
         <mxCell id="HlB0gFYjYxwYRRCom7n0-13" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B5739D;fillColor=#E6D0DE;" vertex="1" parent="1">
           <mxGeometry x="110" y="340" width="20" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HlB0gFYjYxwYRRCom7n0-14" value="Database&lt;br&gt;MariaDB/Neo4J" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="309" y="570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HlB0gFYjYxwYRRCom7n0-15" value="API Gateway&lt;br&gt;Kong" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="169" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
